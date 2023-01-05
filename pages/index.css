@@ -1,5 +1,4 @@
 @import url(../vendor/normalize.css);
-
 @import url(../vendor/fonts/fonts.css);
 
 @import url(../blocks/page/page.css);
@@ -7,15 +6,15 @@
 /* ====================== ХЕДЕР ======================= */
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__menu/header__menu.css);
-@import url(../blocks/header/__language/header__language.css);
+@import url(../blocks/header/__wrapper/header__wrapper.css);
+
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__russian-interface/header__russian-interface.css);
-@import url(../blocks/header/__russian-interface/_activated/header__russian-interface_activated.css);
-@import url(../blocks/header/__russian-interface/_deactivated/header__russian-interface_deactivated.css);
-@import url(../blocks/header/__english-interface/header__english-interface.css);
-@import url(../blocks/header/__english-interface/_activated/header__english-interface_activated.css);
-@import url(../blocks/header/__english-interface/_deactivated/header__english-interface_deactivated.css);
+
+@import url(../blocks/header/__lang-container/header__lang-container.css);
+@import url(../blocks/header/__lang-item/header__lang-item.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_activated/header__lang-link_activated.css);
+@import url(../blocks/header/__lang-link/_deactivated/header__lang-link_deactivated.css);
 
 /* ====================== ЛОГО ======================= */
 

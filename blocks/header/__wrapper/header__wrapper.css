@@ -1,4 +1,4 @@
-.header__menu {
+.header__wrapper {
   display: flex;
   justify-content: space-between;
 
@@ -11,19 +11,19 @@
 
 
 @media screen and (min-width: 1280px) {
-  .header__menu {
-    padding: 28px 48px 48px;
+  .header__wrapper {
+    padding: 28px 48px 56px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .header__menu {
+  .header__wrapper {
     padding: 28px 24px 48px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .header__menu {
+  .header__wrapper {
     padding: 16px 16px 48px;
   }
 }

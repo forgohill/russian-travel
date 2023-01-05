@@ -15,22 +15,25 @@
 
     <!---------------------- ХЕДЕР ------------------------->
     <header class="header">
-      <ul class="header__menu">
+      <ul class="header__wrapper">
         <li>
           <a href="#" title="Переход на страницу Путешествия по России" class="header__logo">
-            <img src="./images/header-logo.svg" alt="Изображения логотипа страицы «Путешествия по России»" class="logo">
+            <img src="./images/header-logo.svg" alt="Изображения логотипа страницы «Путешествия по России»"
+              class="logo">
           </a>
         </li>
-        <ul class="header__language">
-          <li>
-            <a href="#" title="Переключиться на Русский язык"
-              class="header__russian-interface header__russian-interface_activated">Ru</a>
-          </li>
-          <li>
-            <a href="#" title="Переключиться на Английский язык"
-              class="header__english-interface header__english-interface_deactivated">En</a>
-          </li>
-        </ul>
+        <nav>
+          <ul class="header__lang-container">
+            <li class="header__lang-item">
+              <a href="#" title="Переключиться на Русский язык"
+                class="header__lang-link  header__lang-link_activated">Ru</a>
+            </li>
+            <li class="header__lang-item">
+              <a href="#" title="Переключиться на Английский язык"
+                class="header__lang-link  header__lang-link_deactivated">En</a>
+            </li>
+          </ul>
+        </nav>
       </ul>
     </header>
 
