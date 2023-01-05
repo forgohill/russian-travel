@@ -1,0 +1,39 @@
+.page {
+  min-width: 320px;
+  margin: 0 auto;
+  background-color: #2a2c2f23;
+  /* background-color: #2A2C2F; */
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+.page {
+  min-height: 6895px;
+  box-sizing: border-box;
+}
+
+.page {
+  background-image: url(../../backgtpund_pixel_pixel/1024.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 1280px) {
+  .page {
+    background-image: url(../../backgtpund_pixel_pixel/1280.jpg);
+    min-height: 6875px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page {
+    background-image: url(../../backgtpund_pixel_pixel/768.jpg);
+    min-height: 6855px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    background-image: url(../../backgtpund_pixel_pixel/320.jpg);
+    min-height: 10023px;
+  }
+}
