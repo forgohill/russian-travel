@@ -23,7 +23,7 @@
 
 /* @media screen and (max-width: 425px) {} */
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 720px) {
   .lead__subtitle {
     max-width: 288px;
 

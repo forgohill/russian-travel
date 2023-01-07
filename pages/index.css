@@ -31,3 +31,12 @@
 @import url(../blocks/lead/__peacture/lead__peacture.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
+
+/* ====================== LEAD ======================= */
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/__title/intro__title.css);
+@import url(../blocks/__text/intro__text.css);
+@import url(../blocks/__list/intro__list.css);
+@import url(../blocks/__list-item/intro__list-item.css);
+@import url(../blocks/__span-accent/intro__span-accent.css);
