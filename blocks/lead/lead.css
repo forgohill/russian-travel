@@ -4,7 +4,8 @@
 
   font-size: 0;
 
-  margin: 0 auto 92px;
+  /* margin: 0 auto 92px; */
+  margin: 0 auto;
   padding: 0;
 }
 
@@ -17,12 +18,14 @@
 
 @media screen and (max-width: 768px) {
   .lead {
-    margin: 0 auto 88px;
+    /* margin: 0 auto 88px; */
+    margin: 0 auto;
   }
 }
 
 @media screen and (max-width: 425px) {
   .lead {
+    margin: 0 auto;
     margin: 0 auto 64px;
   }
 }
