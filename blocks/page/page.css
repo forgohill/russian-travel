@@ -1,8 +1,8 @@
 .page {
   min-width: 320px;
   margin: 0 auto;
-  background-color: #2b838d;
-  /* background-color: #2A2C2F; */
+  /* background-color: #2b838d; */
+  background-color: #2A2C2F;
 }
 
 .page {
@@ -10,6 +10,7 @@
   box-sizing: border-box;
 }
 
+/*
 .page {
   background-image: url(../../backgtpund_pixel_pixel/1024.jpg);
   background-position: top;
@@ -35,4 +36,4 @@
     background-image: url(../../backgtpund_pixel_pixel/320.jpg);
     min-height: 10023px;
   }
-}
+} */

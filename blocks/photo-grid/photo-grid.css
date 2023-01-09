@@ -11,7 +11,7 @@
 
   margin: 92px auto;
 
-  opacity: 0.3;
+  /* opacity: 0.3; */
 }
 
 @media screen and (min-width: 1025px) {
