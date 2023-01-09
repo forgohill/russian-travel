@@ -4,21 +4,18 @@
 
   font-size: 0;
 
-  /* margin: 0 auto 92px; */
   margin: 0 auto;
   padding: 0;
 }
 
 @media screen and (min-width: 1280px) {
   .lead {
-    /* margin: 48px auto 92px; */
     max-width: 986px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead {
-    /* margin: 0 auto 88px; */
     margin: 0 auto;
   }
 }

@@ -11,9 +11,6 @@
   box-sizing: border-box;
 }
 
-
-@media screen and (min-width: 1280px) {}
-
 @media screen and (max-width: 768px) {
   .footer {
     margin: 0;
@@ -31,5 +28,3 @@
     padding: 64px 118px 24px 16px;
   }
 }
-
-@media screen and (max-width: 320px) {}

@@ -10,10 +10,6 @@
   list-style-type: none;
 }
 
-@media screen and (min-width: 1280px) {}
-
-@media screen and (max-width: 768px) {}
-
 @media screen and (max-width: 425px) {
   .footer__list {
     display: flex;
@@ -26,5 +22,3 @@
     list-style-type: none;
   }
 }
-
-@media screen and (max-width: 320px) {}

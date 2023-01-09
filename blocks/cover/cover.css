@@ -7,16 +7,11 @@
 
   margin: 92px auto 0;
   padding: 0;
-
-  /* opacity: 0.4; */
 }
 
 @media screen and (min-width: 1280px) {
   .cover {
     background-image: url(../../images/cover-trains_1280.jpg);
-
-    /* box-sizing: border-box;
-    padding: 0 48px; */
   }
 }
 
@@ -25,7 +20,6 @@
     background-image: url(../../images/cover-trains_768.jpg);
 
     margin: 90px auto 0;
-
   }
 }
 

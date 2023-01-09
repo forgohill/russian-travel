@@ -6,7 +6,6 @@
   text-decoration: none;
 
   margin: 0;
-  /* padding: 195px 232px; */
   padding: 195px 0;
 }
 
@@ -17,23 +16,18 @@
 
 @media screen and (min-width: 1280px) {
   .cover__link {
-    /* padding: 245px 312px; */
     padding: 245px 0;
   }
 }
 
 @media screen and (max-width: 970px) {
   .cover__link {
-    /* padding: 115px 104px; */
     padding: 115px 0;
   }
 }
 
 @media screen and (max-width: 514px) {
   .cover__link {
-    /* padding: 33px 16px; */
     padding: 33px 0;
   }
 }
-
-@media screen and (max-width: 320px) {}
