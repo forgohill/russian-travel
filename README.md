@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-* [Ссылка на проект](https://github.com/forgohill/russian-travel)
+* [Ссылка на проект](https://forgohill.github.io/russian-travel/)
 
 ### Разработка лендинг-страницы по предоставленному макету в Figma
 
